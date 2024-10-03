@@ -47,4 +47,9 @@ def piedra_tijera_papel():
     else: 
         print("Empate!")
 
+#############################
+
+def cuadrado(num):
+    print(num*num)
+
 
